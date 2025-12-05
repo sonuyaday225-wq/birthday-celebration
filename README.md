@@ -32,6 +32,10 @@ npm run dev
 3. When the candle appears, **press SPACE again** to blow it out
 4. Enjoy the fireworks! 🎆
 
+## 🌐 Live Demo
+
+Visit: https://sonuyaday225-wq.github.io/birthday-celebration/
+
 ## 🛠️ Tech Stack
 
 - **React 19** - UI framework
